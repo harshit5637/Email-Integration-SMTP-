@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3tugyGC8rms2e5r/dLnizWfvH/aOk+Ftpv3m0M+0WtM=",
+  "Source": "SMTP",
+  "BasePath": "_content/SMTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
